@@ -1,0 +1,2 @@
+# reedme
+ini adalah saya 
